@@ -3,6 +3,7 @@
 baseURL = 'http://tapir2342.github.io/ultramassive-kb/'
 title = 'ULTRAMASSIVE'
 theme = 'hugo-book'
+canonifyURLs = true
 
 # Book configuration
 disablePathToLower = true
