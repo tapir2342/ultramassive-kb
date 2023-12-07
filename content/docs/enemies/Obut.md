@@ -1,3 +1,3 @@
 # Obut
 
-![](Obut.png)
+![](/Obut.png)

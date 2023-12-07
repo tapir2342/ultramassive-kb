@@ -1,3 +1,3 @@
 # Khiepad
 
-![](Khiepad.png)
+![](/Khiepad.png)

@@ -1,3 +1,3 @@
 # Trayip
 
-![](Trayip.png)
+![](/Trayip.png)
