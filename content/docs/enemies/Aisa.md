@@ -1,3 +1,3 @@
 # Aisa
 
-![](Aisa.png)
+![](/Aisa.png)
