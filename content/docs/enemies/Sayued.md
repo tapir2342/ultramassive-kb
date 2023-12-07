@@ -1,3 +1,3 @@
 # Sayued
 
-![](/Sayued.png)
+![](Sayued.png)

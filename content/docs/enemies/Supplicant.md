@@ -1,3 +1,3 @@
 # Supplicant
 
-![](/Supplicant.png)
+![](Supplicant.png)

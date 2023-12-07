@@ -1,3 +1,3 @@
 # Ruabitc
 
-![](/Ruabitc.png)
+![](Ruabitc.png)
