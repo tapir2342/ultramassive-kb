@@ -1,3 +1,0 @@
-# Valappoask
-
-![](/Valappoask.png)

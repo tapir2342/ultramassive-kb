@@ -1,6 +1,6 @@
 # hugo server --minify --themesDir ../.. --baseURL=http://0.0.0.0:1313/theme/hugo-book/
 
-baseURL = 'http://tapir2342.github.io/ultramassive-kb/'
+baseURL = 'https://tapir2342.github.io/ultramassive-kb/'
 title = 'ULTRAMASSIVE'
 theme = 'hugo-book'
 canonifyURLs = true
@@ -20,12 +20,12 @@ enableGitInfo = false
 [params]
   # (Optional, default light) Sets color theme: light, dark or auto.
   # Theme 'auto' switches between dark and light modes based on browser/os preferences
-  BookTheme = 'light'
+  BookTheme = 'auto'
 
   # (Optional, default true) Controls table of contents visibility on right side of pages.
   # Start and end levels can be controlled with markup.tableOfContents setting.
   # You can also specify this parameter per page in front matter.
-  BookToC = true
+  BookToC = false
 
   # (Optional, default favicon.png) Set the path to a favicon file.
   # If the favicon is /static/favicon.png then the path would be favicon.png

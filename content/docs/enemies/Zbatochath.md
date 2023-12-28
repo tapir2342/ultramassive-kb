@@ -1,3 +1,0 @@
-# Zbatochath
-
-![](/Zbatochath.png)

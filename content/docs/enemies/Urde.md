@@ -1,3 +1,0 @@
-# Urde
-
-![](/Urde.png)

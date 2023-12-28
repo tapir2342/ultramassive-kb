@@ -1,3 +1,0 @@
-# Iaros
-
-![](/Iaros.png)

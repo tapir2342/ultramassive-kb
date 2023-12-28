@@ -1,3 +1,0 @@
-# Aisa
-
-![](/Aisa.png)

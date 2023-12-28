@@ -1,3 +1,0 @@
-# Patriarch
-
-![](/Patriarch.png)

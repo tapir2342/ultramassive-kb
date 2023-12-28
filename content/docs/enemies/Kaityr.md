@@ -1,3 +1,0 @@
-# Kaityr
-
-![](/Kaityr.png)

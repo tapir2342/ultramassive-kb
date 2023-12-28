@@ -1,3 +1,0 @@
-# Matriarch
-
-![](/Matriarch.png)

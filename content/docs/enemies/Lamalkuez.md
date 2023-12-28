@@ -1,3 +1,0 @@
-# Lamalkuez
-
-![](/Lamalkuez.png)

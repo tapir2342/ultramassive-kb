@@ -1,3 +1,0 @@
-# Obut
-
-![](/Obut.png)

@@ -1,3 +1,0 @@
-# Khiepad
-
-![](/Khiepad.png)

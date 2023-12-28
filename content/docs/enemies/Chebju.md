@@ -1,3 +1,0 @@
-# Chebju
-
-![](/Chebju.png)

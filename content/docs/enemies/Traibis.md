@@ -1,3 +1,0 @@
-# Traibis
-
-![](/Traibis.png)
