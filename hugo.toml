@@ -1,6 +1,6 @@
 # hugo server --minify --themesDir ../.. --baseURL=http://0.0.0.0:1313/theme/hugo-book/
 
-baseURL = 'https://tapir2342.github.io/ultramassive-kb/'
+baseURL = 'https://kb.ultrmassivegame.com/'
 title = 'ULTRAMASSIVE'
 theme = 'hugo-book'
 canonifyURLs = true
